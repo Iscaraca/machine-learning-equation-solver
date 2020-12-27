@@ -5,7 +5,7 @@ Sorta like MNIST but the data given was a lot more un-processable.
 ---
 
 ## Task
-Your task is to evaluate math expressions presented in the form of images. The images are black and white and are of dimensions (55, 135). Some examples are shown below!
+The task is to evaluate math expressions presented in the form of images. The images are black and white and are of dimensions (55, 135). An example is shown below:
 
 |Example 1   |
 |------------|
