@@ -1,7 +1,6 @@
 # Machine Learning Equation Solver
 A kinda sub-par(not for long hopefully) machine learning model I trained to recognise numbers and operators.
-Sorta like MNIST but the data given was a lot more un-processable.
-
+Sorta like MNIST.
 ---
 
 ## Task
